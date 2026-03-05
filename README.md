@@ -10,7 +10,7 @@ Canada, France, Germany, Italy, Japan, United Kingdom, United States, Euro Area,
 
 ## Data Source
 Global-Rates:
-- Historical inflation pages (one page per year)
+- Historical inflation pages 
 - Central bank policy rates table
 
 ## How to Run (VS Code)
