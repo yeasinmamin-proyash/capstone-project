@@ -74,7 +74,7 @@ def main():
             country_label = tds[idx_country].text.strip()
             current = tds[idx_current].text.strip()
 
-            # match our countries
+          
             for out_country, match_label in TARGETS.items():
                 if country_label == match_label:
                     data.append({
