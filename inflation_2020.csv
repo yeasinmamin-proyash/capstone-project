@@ -1,0 +1,9 @@
+year,country,inflation_type,inflation_avg_percent,source_url
+2020,Canada,CPI,0.72,https://www.global-rates.com/en/inflation/historical/2020/
+2020,France,CPI,0.48,https://www.global-rates.com/en/inflation/historical/2020/
+2020,Germany,CPI,0.15,https://www.global-rates.com/en/inflation/historical/2020/
+2020,Italy,CPI,-0.14,https://www.global-rates.com/en/inflation/historical/2020/
+2020,Japan,CPI,-0.02,https://www.global-rates.com/en/inflation/historical/2020/
+2020,United Kingdom,CPI,0.99,https://www.global-rates.com/en/inflation/historical/2020/
+2020,United States,CPI,1.24,https://www.global-rates.com/en/inflation/historical/2020/
+2020,Euro Area,HICP,0.26,https://www.global-rates.com/en/inflation/historical/2020/

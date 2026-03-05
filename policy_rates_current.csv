@@ -1,0 +1,7 @@
+country,current_policy_rate_percent,previous_policy_rate_percent,last_change,source_url
+United States,3.75,4.0,12-11-2025,https://www.global-rates.com/en/interest-rates/central-banks/
+Australia,3.85,3.6,02-03-2026,https://www.global-rates.com/en/interest-rates/central-banks/
+United Kingdom,3.75,4.0,12-18-2025,https://www.global-rates.com/en/interest-rates/central-banks/
+Canada,2.25,2.5,10-29-2025,https://www.global-rates.com/en/interest-rates/central-banks/
+Euro Area,2.15,2.4,06-05-2025,https://www.global-rates.com/en/interest-rates/central-banks/
+Japan,0.75,0.5,12-19-2025,https://www.global-rates.com/en/interest-rates/central-banks/

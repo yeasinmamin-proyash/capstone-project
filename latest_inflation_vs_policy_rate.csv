@@ -1,0 +1,9 @@
+country,inflation_avg_percent,current_policy_rate_percent,previous_policy_rate_percent,last_change,source_url,real_rate_proxy
+Canada,2.07,2.25,2.5,10-29-2025,https://www.global-rates.com/en/interest-rates/central-banks/,0.18
+France,0.94,2.15,2.4,06-05-25,https://www.global-rates.com/en/interest-rates/central-banks/,0.02
+Germany,2.17,2.15,2.4,06-05-25,https://www.global-rates.com/en/interest-rates/central-banks/,0.02
+Italy,1.53,2.15,2.4,06-05-25,https://www.global-rates.com/en/interest-rates/central-banks/,0.02
+Japan,3.18,0.75,0.5,12-19-2025,https://www.global-rates.com/en/interest-rates/central-banks/,-2.43
+United Kingdom,3.88,3.75,4,12-18-2025,https://www.global-rates.com/en/interest-rates/central-banks/,-0.13
+United States,2.69,3.75,4,12-11-25,https://www.global-rates.com/en/interest-rates/central-banks/,1.06
+Euro Area,2.13,2.15,2.4,06-05-25,https://www.global-rates.com/en/interest-rates/central-banks/,0.02

@@ -1,0 +1,129 @@
+year,country,inflation_type,inflation_avg_percent,source_url
+2010,Canada,CPI,1.78,https://www.global-rates.com/en/inflation/historical/2010/
+2010,France,CPI,1.53,https://www.global-rates.com/en/inflation/historical/2010/
+2010,Germany,CPI,1.1,https://www.global-rates.com/en/inflation/historical/2010/
+2010,Italy,CPI,1.52,https://www.global-rates.com/en/inflation/historical/2010/
+2010,Japan,CPI,-0.74,https://www.global-rates.com/en/inflation/historical/2010/
+2010,United Kingdom,CPI,2.49,https://www.global-rates.com/en/inflation/historical/2010/
+2010,United States,CPI,1.64,https://www.global-rates.com/en/inflation/historical/2010/
+2010,Euro Area,HICP,1.61,https://www.global-rates.com/en/inflation/historical/2010/
+2011,Canada,CPI,2.91,https://www.global-rates.com/en/inflation/historical/2011/
+2011,France,CPI,2.11,https://www.global-rates.com/en/inflation/historical/2011/
+2011,Germany,CPI,2.07,https://www.global-rates.com/en/inflation/historical/2011/
+2011,Italy,CPI,2.78,https://www.global-rates.com/en/inflation/historical/2011/
+2011,Japan,CPI,-0.27,https://www.global-rates.com/en/inflation/historical/2011/
+2011,United Kingdom,CPI,3.85,https://www.global-rates.com/en/inflation/historical/2011/
+2011,United States,CPI,3.16,https://www.global-rates.com/en/inflation/historical/2011/
+2011,Euro Area,HICP,2.72,https://www.global-rates.com/en/inflation/historical/2011/
+2012,Canada,CPI,1.52,https://www.global-rates.com/en/inflation/historical/2012/
+2012,France,CPI,1.96,https://www.global-rates.com/en/inflation/historical/2012/
+2012,Germany,CPI,2.01,https://www.global-rates.com/en/inflation/historical/2012/
+2012,Italy,CPI,3.04,https://www.global-rates.com/en/inflation/historical/2012/
+2012,Japan,CPI,-0.04,https://www.global-rates.com/en/inflation/historical/2012/
+2012,United Kingdom,CPI,2.58,https://www.global-rates.com/en/inflation/historical/2012/
+2012,United States,CPI,2.07,https://www.global-rates.com/en/inflation/historical/2012/
+2012,Euro Area,HICP,2.5,https://www.global-rates.com/en/inflation/historical/2012/
+2013,Canada,CPI,0.94,https://www.global-rates.com/en/inflation/historical/2013/
+2013,France,CPI,0.86,https://www.global-rates.com/en/inflation/historical/2013/
+2013,Germany,CPI,1.51,https://www.global-rates.com/en/inflation/historical/2013/
+2013,Italy,CPI,1.22,https://www.global-rates.com/en/inflation/historical/2013/
+2013,Japan,CPI,0.34,https://www.global-rates.com/en/inflation/historical/2013/
+2013,United Kingdom,CPI,2.29,https://www.global-rates.com/en/inflation/historical/2013/
+2013,United States,CPI,1.47,https://www.global-rates.com/en/inflation/historical/2013/
+2013,Euro Area,HICP,1.35,https://www.global-rates.com/en/inflation/historical/2013/
+2014,Canada,CPI,1.91,https://www.global-rates.com/en/inflation/historical/2014/
+2014,France,CPI,0.51,https://www.global-rates.com/en/inflation/historical/2014/
+2014,Germany,CPI,0.91,https://www.global-rates.com/en/inflation/historical/2014/
+2014,Italy,CPI,0.24,https://www.global-rates.com/en/inflation/historical/2014/
+2014,Japan,CPI,2.76,https://www.global-rates.com/en/inflation/historical/2014/
+2014,United Kingdom,CPI,1.45,https://www.global-rates.com/en/inflation/historical/2014/
+2014,United States,CPI,1.62,https://www.global-rates.com/en/inflation/historical/2014/
+2014,Euro Area,HICP,0.43,https://www.global-rates.com/en/inflation/historical/2014/
+2015,Canada,CPI,1.13,https://www.global-rates.com/en/inflation/historical/2015/
+2015,France,CPI,0.04,https://www.global-rates.com/en/inflation/historical/2015/
+2015,Germany,CPI,0.51,https://www.global-rates.com/en/inflation/historical/2015/
+2015,Italy,CPI,0.04,https://www.global-rates.com/en/inflation/historical/2015/
+2015,Japan,CPI,0.81,https://www.global-rates.com/en/inflation/historical/2015/
+2015,United Kingdom,CPI,0.37,https://www.global-rates.com/en/inflation/historical/2015/
+2015,United States,CPI,0.12,https://www.global-rates.com/en/inflation/historical/2015/
+2015,Euro Area,HICP,0.03,https://www.global-rates.com/en/inflation/historical/2015/
+2016,Canada,CPI,1.43,https://www.global-rates.com/en/inflation/historical/2016/
+2016,France,CPI,0.18,https://www.global-rates.com/en/inflation/historical/2016/
+2016,Germany,CPI,0.49,https://www.global-rates.com/en/inflation/historical/2016/
+2016,Italy,CPI,-0.09,https://www.global-rates.com/en/inflation/historical/2016/
+2016,Japan,CPI,-0.13,https://www.global-rates.com/en/inflation/historical/2016/
+2016,United Kingdom,CPI,1.01,https://www.global-rates.com/en/inflation/historical/2016/
+2016,United States,CPI,1.26,https://www.global-rates.com/en/inflation/historical/2016/
+2016,Euro Area,HICP,0.23,https://www.global-rates.com/en/inflation/historical/2016/
+2017,Canada,CPI,1.6,https://www.global-rates.com/en/inflation/historical/2017/
+2017,France,CPI,1.03,https://www.global-rates.com/en/inflation/historical/2017/
+2017,Germany,CPI,1.51,https://www.global-rates.com/en/inflation/historical/2017/
+2017,Italy,CPI,1.23,https://www.global-rates.com/en/inflation/historical/2017/
+2017,Japan,CPI,0.48,https://www.global-rates.com/en/inflation/historical/2017/
+2017,United Kingdom,CPI,2.56,https://www.global-rates.com/en/inflation/historical/2017/
+2017,United States,CPI,2.13,https://www.global-rates.com/en/inflation/historical/2017/
+2017,Euro Area,HICP,1.54,https://www.global-rates.com/en/inflation/historical/2017/
+2018,Canada,CPI,2.27,https://www.global-rates.com/en/inflation/historical/2018/
+2018,France,CPI,1.85,https://www.global-rates.com/en/inflation/historical/2018/
+2018,Germany,CPI,1.73,https://www.global-rates.com/en/inflation/historical/2018/
+2018,Italy,CPI,1.14,https://www.global-rates.com/en/inflation/historical/2018/
+2018,Japan,CPI,0.99,https://www.global-rates.com/en/inflation/historical/2018/
+2018,United Kingdom,CPI,2.29,https://www.global-rates.com/en/inflation/historical/2018/
+2018,United States,CPI,2.44,https://www.global-rates.com/en/inflation/historical/2018/
+2018,Euro Area,HICP,1.75,https://www.global-rates.com/en/inflation/historical/2018/
+2019,Canada,CPI,1.95,https://www.global-rates.com/en/inflation/historical/2019/
+2019,France,CPI,1.11,https://www.global-rates.com/en/inflation/historical/2019/
+2019,Germany,CPI,1.45,https://www.global-rates.com/en/inflation/historical/2019/
+2019,Italy,CPI,0.61,https://www.global-rates.com/en/inflation/historical/2019/
+2019,Japan,CPI,0.47,https://www.global-rates.com/en/inflation/historical/2019/
+2019,United Kingdom,CPI,1.74,https://www.global-rates.com/en/inflation/historical/2019/
+2019,United States,CPI,1.81,https://www.global-rates.com/en/inflation/historical/2019/
+2019,Euro Area,HICP,1.2,https://www.global-rates.com/en/inflation/historical/2019/
+2020,Canada,CPI,0.72,https://www.global-rates.com/en/inflation/historical/2020/
+2020,France,CPI,0.48,https://www.global-rates.com/en/inflation/historical/2020/
+2020,Germany,CPI,0.15,https://www.global-rates.com/en/inflation/historical/2020/
+2020,Italy,CPI,-0.14,https://www.global-rates.com/en/inflation/historical/2020/
+2020,Japan,CPI,-0.02,https://www.global-rates.com/en/inflation/historical/2020/
+2020,United Kingdom,CPI,0.99,https://www.global-rates.com/en/inflation/historical/2020/
+2020,United States,CPI,1.24,https://www.global-rates.com/en/inflation/historical/2020/
+2020,Euro Area,HICP,0.26,https://www.global-rates.com/en/inflation/historical/2020/
+2021,Canada,CPI,3.39,https://www.global-rates.com/en/inflation/historical/2021/
+2021,France,CPI,1.64,https://www.global-rates.com/en/inflation/historical/2021/
+2021,Germany,CPI,3.07,https://www.global-rates.com/en/inflation/historical/2021/
+2021,Italy,CPI,1.88,https://www.global-rates.com/en/inflation/historical/2021/
+2021,Japan,CPI,-0.23,https://www.global-rates.com/en/inflation/historical/2021/
+2021,United Kingdom,CPI,2.52,https://www.global-rates.com/en/inflation/historical/2021/
+2021,United States,CPI,4.69,https://www.global-rates.com/en/inflation/historical/2021/
+2021,Euro Area,HICP,2.59,https://www.global-rates.com/en/inflation/historical/2021/
+2022,Canada,CPI,6.8,https://www.global-rates.com/en/inflation/historical/2022/
+2022,France,CPI,5.22,https://www.global-rates.com/en/inflation/historical/2022/
+2022,Germany,CPI,6.86,https://www.global-rates.com/en/inflation/historical/2022/
+2022,Italy,CPI,8.18,https://www.global-rates.com/en/inflation/historical/2022/
+2022,Japan,CPI,2.5,https://www.global-rates.com/en/inflation/historical/2022/
+2022,United Kingdom,CPI,7.9,https://www.global-rates.com/en/inflation/historical/2022/
+2022,United States,CPI,8.01,https://www.global-rates.com/en/inflation/historical/2022/
+2022,Euro Area,HICP,8.38,https://www.global-rates.com/en/inflation/historical/2022/
+2023,Canada,CPI,3.89,https://www.global-rates.com/en/inflation/historical/2023/
+2023,France,CPI,4.89,https://www.global-rates.com/en/inflation/historical/2023/
+2023,Germany,CPI,5.99,https://www.global-rates.com/en/inflation/historical/2023/
+2023,Italy,CPI,5.72,https://www.global-rates.com/en/inflation/historical/2023/
+2023,Japan,CPI,3.27,https://www.global-rates.com/en/inflation/historical/2023/
+2023,United Kingdom,CPI,6.84,https://www.global-rates.com/en/inflation/historical/2023/
+2023,United States,CPI,4.14,https://www.global-rates.com/en/inflation/historical/2023/
+2023,Euro Area,HICP,5.48,https://www.global-rates.com/en/inflation/historical/2023/
+2024,Canada,CPI,2.39,https://www.global-rates.com/en/inflation/historical/2024/
+2024,France,CPI,2.0,https://www.global-rates.com/en/inflation/historical/2024/
+2024,Germany,CPI,2.26,https://www.global-rates.com/en/inflation/historical/2024/
+2024,Italy,CPI,0.98,https://www.global-rates.com/en/inflation/historical/2024/
+2024,Japan,CPI,2.74,https://www.global-rates.com/en/inflation/historical/2024/
+2024,United Kingdom,CPI,3.28,https://www.global-rates.com/en/inflation/historical/2024/
+2024,United States,CPI,2.95,https://www.global-rates.com/en/inflation/historical/2024/
+2024,Euro Area,HICP,2.37,https://www.global-rates.com/en/inflation/historical/2024/
+2025,Canada,CPI,2.07,https://www.global-rates.com/en/inflation/historical/2025/
+2025,France,CPI,0.94,https://www.global-rates.com/en/inflation/historical/2025/
+2025,Germany,CPI,2.17,https://www.global-rates.com/en/inflation/historical/2025/
+2025,Italy,CPI,1.53,https://www.global-rates.com/en/inflation/historical/2025/
+2025,Japan,CPI,3.18,https://www.global-rates.com/en/inflation/historical/2025/
+2025,United Kingdom,CPI,3.88,https://www.global-rates.com/en/inflation/historical/2025/
+2025,United States,CPI,2.69,https://www.global-rates.com/en/inflation/historical/2025/
+2025,Euro Area,HICP,2.13,https://www.global-rates.com/en/inflation/historical/2025/
